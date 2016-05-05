@@ -19,7 +19,7 @@
     "url": "http://github.com/jdanyow/aurelia-breeze"
   },
   "jspm": {
-    "registry": "npm",
+    "registry": "github",
     "main": "aurelia-breeze",
     "format": "amd",
     "directories": {
