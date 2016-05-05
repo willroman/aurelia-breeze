@@ -1,6 +1,6 @@
 import {ObserverLocator} from 'aurelia-binding';
 import {HttpClient} from 'aurelia-http-client';
-import breeze from 'breeze';
+import breeze from 'breeze-client';
 import {Q} from './promise-adapter';
 import {BreezeObservationAdapter} from './observation-adapter';
 import {AjaxAdapter} from './ajax-adapter'; //eslint-disable-line no-unused-vars

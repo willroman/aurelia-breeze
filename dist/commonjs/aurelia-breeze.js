@@ -11,7 +11,7 @@ var _createClass = function () { function defineProperties(target, props) { for 
 
 exports.configure = configure;
 
-var _breeze = require('breeze');
+var _breeze = require('breeze-client');
 
 var _breeze2 = _interopRequireDefault(_breeze);
 

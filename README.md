@@ -63,7 +63,7 @@ This guide uses [jspm](http://jspm.io/) and assumes you've already setup your Au
 4. Now you're ready to use Breeze in your Aurelia application:
 
   ```javascript
-  import breeze from 'breeze';
+  import breeze from 'breeze-client';
 
   var query = new breeze.EntityQuery();
   ...

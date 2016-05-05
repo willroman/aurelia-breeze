@@ -1,4 +1,4 @@
-import breeze from 'breeze';
+import breeze from 'breeze-client';
 
 const extend = breeze.core.extend;
 

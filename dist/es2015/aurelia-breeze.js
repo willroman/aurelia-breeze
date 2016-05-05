@@ -1,6 +1,6 @@
 var _dec, _class;
 
-import breeze from 'breeze';
+import breeze from 'breeze-client';
 import { subscriberCollection, ObserverLocator } from 'aurelia-binding';
 import { HttpClient } from 'aurelia-http-client';
 

@@ -1,5 +1,5 @@
 declare module 'aurelia-breeze' {
-  import breeze from 'breeze';
+  import breeze from 'breeze-client';
   import {
     subscriberCollection,
     ObserverLocator

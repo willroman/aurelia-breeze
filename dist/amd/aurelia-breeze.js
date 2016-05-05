@@ -1,4 +1,4 @@
-define(['exports', 'breeze', 'aurelia-binding', 'aurelia-http-client'], function (exports, _breeze, _aureliaBinding, _aureliaHttpClient) {
+define(['exports', 'breeze-client', 'aurelia-binding', 'aurelia-http-client'], function (exports, _breeze, _aureliaBinding, _aureliaHttpClient) {
   'use strict';
 
   Object.defineProperty(exports, "__esModule", {

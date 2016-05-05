@@ -1,4 +1,4 @@
-import breeze from 'breeze';
+import breeze from 'breeze-client';
 import getEntityManager from './breeze-setup';
 import {HttpClient} from 'aurelia-http-client';
 import {initialize} from 'aurelia-pal-browser';
